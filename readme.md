@@ -12,6 +12,10 @@ Detailed additional information on the formats in the dataset is available here:
 
 In order to keep the size of this repo managable, the 5 "large files" examples in directory *example-file/testing/large_files* were excluded from this mirror (these files occupy about 4.8 GB in the original dataset!).
 
+## Listing of all files
+
+See [files.txt](./files.txt).
+
 ## How this repo was created
 
 1. Scraped data from *online-convert.com* using the following command: 

@@ -1,0 +1,316 @@
+./example-file/archive/7z/example.7z
+./example-file/archive/ace/example.ace
+./example-file/archive/arc/example.arc
+./example-file/archive/as/example.as
+./example-file/archive/bz2/example.tar.bz2
+./example-file/archive/gz/example.tar.gz
+./example-file/archive/hqx/example.hqx
+./example-file/archive/lha/example.lha
+./example-file/archive/pea/example.pea
+./example-file/archive/rar/example.rar
+./example-file/archive/sitx/example.sitx
+./example-file/archive/tar/example.tar
+./example-file/archive/tar.gz
+./example-file/archive/tar.gz/example.tar.gz
+./example-file/archive/tbz2/example.tbz2
+./example-file/archive/tgz/example.tgz
+./example-file/archive/tz/example.tz
+./example-file/archive/uue/example.uue
+./example-file/archive/wim/example.wim
+./example-file/archive/xz/example.xz
+./example-file/archive/yenc/example.yenc
+./example-file/archive/zip/example_protected.zip
+./example-file/archive/zip/example.zip
+./example-file/archive/zipx/example.zipx
+./example-file/archive/zpaq/example.zpaq
+./example-file/audio/3ga/example.3ga
+./example-file/audio/aac/example.aac
+./example-file/audio/aif/example.aif
+./example-file/audio/aiff/example.aiff
+./example-file/audio/amr/example.amr
+./example-file/audio/ape/example.ape
+./example-file/audio/caf/example.caf
+./example-file/audio/flac/example.flac
+./example-file/audio/gsm/example.gsm
+./example-file/audio/iff/example.aiff
+./example-file/audio/kar/example.kar
+./example-file/audio/m3u8/example.m3u8
+./example-file/audio/m3u/example.m3u
+./example-file/audio/m4a/example.m4a
+./example-file/audio/m4p/example.m4p
+./example-file/audio/m4r/example.m4r
+./example-file/audio/mid/example.mid
+./example-file/audio/midi/example.midi
+./example-file/audio/mmf/example.mmf
+./example-file/audio/mp2/example.mp2
+./example-file/audio/mp3/example.mp3
+./example-file/audio/mpga/example.mpga
+./example-file/audio/ogg/example.ogg
+./example-file/audio/opus/example.opus
+./example-file/audio/qcp/example.qcp
+./example-file/audio/rta/example.rta
+./example-file/audio/wav/example.wav
+./example-file/audio/wma/example.wma
+./example-file/database/accdb/example.accdb
+./example-file/database/ged/example.ged
+./example-file/database/mdb/example.mdb
+./example-file/document/doc/example.doc
+./example-file/document/doc/example_multipage.doc
+./example-file/document/docm/example.docm
+./example-file/document/docx/example.docx
+./example-file/document/docx/example_multipage.docx
+./example-file/document/dot/example.dot
+./example-file/document/dotx/example.dotx
+./example-file/document/dox/example.dox
+./example-file/document/eml/example.eml
+./example-file/document/hwp/example.hwp
+./example-file/document/log/example.log
+./example-file/document/msg/example.msg
+./example-file/document/odm/example.odm
+./example-file/document/odt/example_multipage.odt
+./example-file/document/odt/example.odt
+./example-file/document/oxps/example.oxps
+./example-file/document/pages/example.pages
+./example-file/document/pdf/example_complex.pdf
+./example-file/document/pdf/example_hybrid.pdf
+./example-file/document/pdf/example_multipage.pdf
+./example-file/document/pdf/example_nonsearchable.pdf
+./example-file/document/pdf/example.pdf
+./example-file/document/pdf/example_protected.pdf
+./example-file/document/pub/example.pub
+./example-file/document/rtf/example_multipage.rtf
+./example-file/document/rtf/example.rtf
+./example-file/document/sam/example.sam
+./example-file/document/sdw/example.sdw
+./example-file/document/stw/example.stw
+./example-file/document/sxw/example.sxw
+./example-file/document/tex/example.tex
+./example-file/document/txt/example.txt
+./example-file/document/wpd/example.wpd
+./example-file/document/wp/example.wp
+./example-file/document/wps/example.wps
+./example-file/document/wri/example.wri
+./example-file/document/wsd/example.wsd
+./example-file/document/xml/example.xml
+./example-file/document/xps/example.xps
+./example-file/document/xy/example.xy
+./example-file/ebook/azw3/example.azw3
+./example-file/ebook/azw/example.azw
+./example-file/ebook/cbr/example.cbr
+./example-file/ebook/cbt/Desktop.cbt
+./example-file/ebook/cbz/example.cbz
+./example-file/ebook/epub/example.epub
+./example-file/ebook/fb2/example.fb2
+./example-file/ebook/lit/example.lit
+./example-file/ebook/lrf/example.lrf
+./example-file/ebook/mobi/example.mobi
+./example-file/ebook/opf/example.opf
+./example-file/ebook/prc/example.prc
+./example-file/ebook/tcr/example.tcr
+./example-file/example-file/spreadsheet/123/example.123
+./example-file/example-file/spreadsheet/slk/example.slk
+./example-file/files.txt
+./example-file/misc/act/example.act
+./example-file/misc/asm/example.asm
+./example-file/misc/cbl/example.cbl
+./example-file/misc/dat/example.dat
+./example-file/misc/dcx/example.dcx
+./example-file/misc/dtd/example.dtd
+./example-file/misc/fax/example.fax
+./example-file/misc/fnt/example.fnt
+./example-file/misc/gpx/example.gpx
+./example-file/misc/ics/example.ics
+./example-file/misc/idml/example.idml
+./example-file/misc/img/example.img
+./example-file/misc/indd/example.indd
+./example-file/misc/indt/example.indt
+./example-file/misc/kml/example.kml
+./example-file/misc/kmz/example.kmz
+./example-file/misc/otf/example.otf
+./example-file/misc/pcl/example.pcl
+./example-file/misc/pl/example.pl
+./example-file/misc/pos/example.pos
+./example-file/misc/pui/example.pui
+./example-file/misc/py/example.py
+./example-file/misc/qcd/example.qcd
+./example-file/misc/qct/example.qct
+./example-file/misc/qpt/example.qpt
+./example-file/misc/qxp/example.qxp
+./example-file/misc/spd/example.spd
+./example-file/misc/swift/example.swift
+./example-file/misc/ttf/example.ttf
+./example-file/misc/vcf/example.vcf
+./example-file/presentation/key/example.key
+./example-file/presentation/odp/example.odp
+./example-file/presentation/pps/example.pps
+./example-file/presentation/ppsx/example.ppsx
+./example-file/presentation/ppt/example.ppt
+./example-file/presentation/pptm/example.pptm
+./example-file/presentation/pptx/example.pptx
+./example-file/presentation/sdd/example.sdd
+./example-file/raster image/arw/example.arw
+./example-file/raster image/bmp/example.bmp
+./example-file/raster image/bmp/example_small.bmp
+./example-file/raster image/cal/example.cal
+./example-file/raster image/cals/example.cals
+./example-file/raster image/cut/example.cut
+./example-file/raster image/dds/example.dds
+./example-file/raster image/dib/example.dib
+./example-file/raster image/djvu/example.djvu
+./example-file/raster image/dng/example.dng
+./example-file/raster image/fit/example.fit
+./example-file/raster image/gif/example_animated.gif
+./example-file/raster image/gif/example_animated_small.gif
+./example-file/raster image/gif/example.gif
+./example-file/raster image/gif/example_small.gif
+./example-file/raster image/hdp/example.hdp
+./example-file/raster image/icns/example.icns
+./example-file/raster image/ico/example.ico
+./example-file/raster image/ico/example_small.ico
+./example-file/raster image/jp2/example.jp2
+./example-file/raster image/jpe/example.jpe
+./example-file/raster image/jpeg/example.jpeg
+./example-file/raster image/jpeg/example_small.jpeg
+./example-file/raster image/jpg/example.jpg
+./example-file/raster image/jpg/example_small.jpg
+./example-file/raster image/jps/example.jps
+./example-file/raster image/mac/example.mac
+./example-file/raster image/nef/example.nef
+./example-file/raster image/pal/example.pal
+./example-file/raster image/pbm/example.pbm
+./example-file/raster image/pcd/example.pcd
+./example-file/raster image/pcx/example.pcx
+./example-file/raster image/pgm/example.pgm
+./example-file/raster image/pic/example.pic
+./example-file/raster image/pix/example.pix
+./example-file/raster image/png/example_alpha.png
+./example-file/raster image/png/example.png
+./example-file/raster image/png/example_small.png
+./example-file/raster image/ppm/example.ppm
+./example-file/raster image/psd/example.psd
+./example-file/raster image/psd/example_small.psd
+./example-file/raster image/psp/example.psp
+./example-file/raster image/pspimage/example.pspimage
+./example-file/raster image/ras/example.ras
+./example-file/raster image/rif/example.rif
+./example-file/raster image/riff/example.riff
+./example-file/raster image/tga/example_small.tga
+./example-file/raster image/tga/example.tga
+./example-file/raster image/tif/example_small.tif
+./example-file/raster image/tif/example.tif
+./example-file/raster image/tiff/example_small.tiff
+./example-file/raster image/tiff/example.tiff
+./example-file/raster image/wbmp/example.wbmp
+./example-file/raster image/wdp/example.wdp
+./example-file/raster image/webp/example_small.webp
+./example-file/raster image/webp/example.webp
+./example-file/raster image/wmf/example.wmf
+./example-file/raster image/wpg/example.wpg
+./example-file/raster image/xcf/example.xcf
+./example-file/spreadsheet/csv/example.csv
+./example-file/spreadsheet/ods/example.ods
+./example-file/spreadsheet/qpw/example.qpw
+./example-file/spreadsheet/sdc/example.sdc
+./example-file/spreadsheet/stc/example.stc
+./example-file/spreadsheet/sxc/example.sxc
+./example-file/spreadsheet/vor/example.vor
+./example-file/spreadsheet/wk1/example.wk1
+./example-file/spreadsheet/wk3/example.wk3
+./example-file/spreadsheet/wk4/example.wk4
+./example-file/spreadsheet/wks/example.wks
+./example-file/spreadsheet/xls/example.xls
+./example-file/spreadsheet/xlsx/example.xlsx
+./example-file/testing/altered_extensions/example.jpg_large
+./example-file/testing/altered_extensions/example.jpg_orig
+./example-file/testing/non_ascii_filenames/filename_with_àccénts.htm
+./example-file/testing/non_ascii_filenames/filename_with_apostroph'e.png
+./example-file/testing/non_ascii_filenames/filename with spaces.png
+./example-file/testing/non_ascii_filenames/incredibly long file name containing spaces and some special characters like dash- or underscore_.html
+./example-file/testing/pdf_collection/example_A0.pdf
+./example-file/testing/pdf_collection/example_A3.pdf
+./example-file/testing/pdf_collection/example_A4.pdf
+./example-file/testing/pdf_collection/example_A5.pdf
+./example-file/testing/pdf_collection/example_A9.pdf
+./example-file/testing/pdf_collection/example_crookedscan.pdf
+./example-file/testing/pdf_collection/example_Cyrillic-Latin.pdf
+./example-file/testing/pdf_collection/example_Cyrillic.pdf
+./example-file/testing/pdf_collection/example_Japanese-Latin.pdf
+./example-file/testing/pdf_collection/example_landscape_A0.pdf
+./example-file/testing/pdf_collection/example_landscape_A3.pdf
+./example-file/testing/pdf_collection/example_landscape_A4.pdf
+./example-file/testing/pdf_collection/example_landscape_A5.pdf
+./example-file/testing/pdf_collection/example_landscape_A9.pdf
+./example-file/testing/pdf_collection/example_landscape+portrait_diffresolution.pdf
+./example-file/testing/pdf_collection/example_multipage_200+.pdf
+./example-file/testing/pdf_collection/example_multipage_2columns.pdf
+./example-file/testing/pdf_collection/example_multipage_400+.pdf
+./example-file/testing/pdf_collection/example_multipage_500+.pdf
+./example-file/testing/pdf_collection/example_multipage_landscape_2columns.pdf
+./example-file/testing/pdf_collection/example_multipage_landscape_crookedscan.pdf
+./example-file/testing/pdf_collection/example_multipage_landscape.pdf
+./example-file/vector image/3ds/example.3ds
+./example-file/vector image/ai/example.ai
+./example-file/vector image/cdr/example.cdr
+./example-file/vector image/cnv/example.cnv
+./example-file/vector image/cvi/example.cvi
+./example-file/vector image/cvx/example.cvx
+./example-file/vector image/dwg/example_2d.dwg
+./example-file/vector image/dwg/example_3d.dwg
+./example-file/vector image/dxf/example.dxf
+./example-file/vector image/emf/example.emf
+./example-file/vector image/eps/example.eps
+./example-file/vector image/eps/example_small.eps
+./example-file/vector image/odg/example.odg
+./example-file/vector image/ps/example.ps
+./example-file/vector image/sda/example.sda
+./example-file/vector image/svg/example.svg
+./example-file/vector image/svgz/example.svgz
+./example-file/vector image/tpl/example.tpl
+./example-file/vector image/vsd/example.vsd
+./example-file/vector image/wmf/example.wmf
+./example-file/video/3g2/example.3g2
+./example-file/video/3gp/example.3gp
+./example-file/video/3gpp/example.3gpp
+./example-file/video/asf/example.asf
+./example-file/video/asx/example.asx
+./example-file/video/avi/example_2s.avi
+./example-file/video/avi/example.avi
+./example-file/video/avi/example_small.avi
+./example-file/video/divx/example.divx
+./example-file/video/dpg/example.dpg
+./example-file/video/f4v/example.f4v
+./example-file/video/flv/example.flv
+./example-file/video/flv/example_small.flv
+./example-file/video/h264/example.h264
+./example-file/video/m2ts/example.m2ts
+./example-file/video/m4v/example.m4v
+./example-file/video/mkv/example.mkv
+./example-file/video/mkv/example_small.mkv
+./example-file/video/mov/example.mov
+./example-file/video/mov/example_small.mov
+./example-file/video/mp4/example_2s.mp4
+./example-file/video/mp4/example.mp4
+./example-file/video/mp4/example_small.mp4
+./example-file/video/mpeg/example.mpeg
+./example-file/video/mpg/example.mpg
+./example-file/video/mpg/example_small.mpg
+./example-file/video/mts/example_3D.mts
+./example-file/video/mts/example.mts
+./example-file/video/mxf/example.mxf
+./example-file/video/rm/example.rm
+./example-file/video/swf/example_document.swf
+./example-file/video/swf/example.swf
+./example-file/video/ts/example.ts
+./example-file/video/vep/example.vep
+./example-file/video/vob/example.vob
+./example-file/video/webm/example_small.webm
+./example-file/video/webm/example.webm
+./example-file/video/wlmp/example.wlmp
+./example-file/video/wmv/example.wmv
+./example-file/website/css/example.css
+./example-file/website/htm/example.htm
+./example-file/website/html/example.html
+./example-file/website/js/example.js
+./example-file/website/json/example.json
+./example-file/website/php/example.php
+./example-file/website/rss/example.rss
