@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:1.0
+BEGIN:VEVENT
+DTSTART:20140925T090000
+DTEND:20140925T100000
+LOCATION:
+DESCRIPTION:Purpose: Provide example of this file type Document file type: ICS Version: 1.0 Created by http://www.online-convert.com More example files: http://www.online-convert.com/file-type License: http://creativecommons.org/licenses Feel free to use & share the file according to the license above.
+SUMMARY:ICS test file
+PRIORITY:3
+END:VEVENT
+END:VCALENDAR

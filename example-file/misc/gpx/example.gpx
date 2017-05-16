@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx
+xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+version="1.1" 
+creator="gpx-poi.com">
+   <wpt lat="47.751342" lon="8.955048">
+      <time>2016-08-16T09:57:51Z</time>
+      <name>GPX test file</name>
+      <desc>Purpose: Provide example of this file type
+Document file type: 
+PDF
+Version: 1.0
+
+File created by 
+http://www.online
+-
+convert.com
+More example files: 
+http://www.online
+-
+convert.com/file
+-
+type
+T
+ext of Example content: 
+Wikipedia
+License: 
+Attribution
+-
+ShareAlike 3.0 Unported
+Feel free to use and share the file according to the license above.</desc>
+   </wpt>
+</gpx>

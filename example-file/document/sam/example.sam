@@ -1,0 +1,409 @@
+[ver]
+	4
+[sty]
+
+[files]
+[charset]
+	82
+	ANSI (Windows, IBM CP 1252)
+[prn]
+	PCL / HP LaserJet
+[lang]
+	1
+[fopts]
+	4
+	1
+	2880
+	0
+[lnopts]
+	0
+	Body Text
+[docopts]
+	5
+	0
+[tag]
+	Body Text
+	2
+	[fnt]
+		Times New Roman
+		240
+		0
+		32768
+	[algn]
+		1
+		1
+		0
+		0
+		0
+	[spc]
+		33
+		273
+		1
+		0
+		0
+		1
+		100
+	[brk]
+		4
+	[line]
+		8
+		0
+		1
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		0
+
+		0
+		1
+		1
+		0
+		2
+		0
+		0
+	[nfmt]
+		272
+		1
+		2
+		.
+		,
+		$
+[tag]
+	Style #0
+	2
+	[fnt]
+		Arial
+		220
+		0
+		32768
+	[algn]
+		1
+		1
+		0
+		0
+		0
+	[spc]
+		33
+		273
+		1
+		0
+		0
+		1
+		100
+	[brk]
+		4
+	[line]
+		8
+		0
+		1
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		0
+
+		0
+		1
+		1
+		0
+		2
+		0
+		0
+	[nfmt]
+		272
+		1
+		2
+		.
+		,
+		$
+[tag]
+	Style #1
+	2
+	[fnt]
+		Calibri
+		220
+		0
+		32768
+	[algn]
+		1
+		1
+		0
+		0
+		0
+	[spc]
+		33
+		273
+		1
+		0
+		0
+		1
+		100
+	[brk]
+		4
+	[line]
+		8
+		0
+		1
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		0
+
+		0
+		1
+		1
+		0
+		2
+		0
+		0
+	[nfmt]
+		272
+		1
+		2
+		.
+		,
+		$
+[tag]
+	Style #2
+	2
+	[fnt]
+		Calibri
+		220
+		16711680
+		32768
+	[algn]
+		1
+		1
+		0
+		0
+		0
+	[spc]
+		33
+		273
+		1
+		0
+		0
+		1
+		100
+	[brk]
+		4
+	[line]
+		8
+		0
+		1
+		0
+		1
+		1
+		1
+		10
+		10
+		1
+	[spec]
+		0
+		0
+
+		0
+		1
+		1
+		0
+		2
+		0
+		0
+	[nfmt]
+		272
+		1
+		2
+		.
+		,
+		$
+[lay]
+	Standard
+	513
+	[rght]
+		15840
+		12240
+		1
+		1440
+		1440
+		1
+		1440
+		1440
+		0
+		0
+		0
+		0
+		0
+		2
+		1
+		1440
+		10800
+		10
+		1
+		720
+		1
+		1440
+		1
+		2160
+		1
+		2880
+		1
+		3600
+		1
+		4320
+		1
+		5040
+		1
+		5760
+		1
+		6480
+		1
+		7200
+	[hrght]
+	[lyfrm]
+		1
+		11200
+		0
+		0
+		12240
+		1440
+		1
+		1
+		3
+		1
+		0
+		0
+		0
+	[frmlay]
+		1440
+		12240
+		1
+		1440
+		72
+		1
+		360
+		1440
+		0
+		1
+		0
+		1
+		1
+		0
+		1
+		1440
+		10800
+		0
+	[txt]
+>
+	[frght]
+	[lyfrm]
+		1
+		13248
+		0
+		14400
+		12240
+		15840
+		1
+		1
+		3
+		1
+		0
+		0
+		0
+	[frmlay]
+		15840
+		12240
+		1
+		1440
+		360
+		1
+		14472
+		1440
+		0
+		1
+		0
+		1
+		1
+		0
+		1
+		1440
+		10800
+		0
+	[txt]
+>
+[elay]
+[l1]
+	0
+[edoc]
+<:R1,13,1,360,1,1068,1,1776,1,2484,1,3192,1,3900,1,4608,1,5316,1,6024,1,6732,1,7440,1,8148,1,8856><+!><:f560,2Arial,0,0,0>SAM test file
+
+<:S+-2><-!><:f220,2Arial,0,0,0>
+
+@Style #0@<:S+-2>Purpose: Provide example of this file type
+
+@Style #0@<:S+-2>Document file type: SAM
+
+@Style #0@<:S+-2>Version: 1.0
+
+@Style #0@<:S+-2>Remark: 
+
+@Style #0@<:S+-2>
+
+@Style #0@<:S+-2>Example content:
+
+@Style #0@<:S+-2>The names "<+!>John Doe<-!>" for males, "<+!>Jane Doe<-!>" or "<+!>Jane Roe<-!>" for 
+females, or "<+!>Jonnie Doe<-!>" and "<+!>Janie Doe<-!>" for children, or just "<+!>Doe<-!>" 
+non-gender-specifically are used as placeholder names for a party 
+whose true identity is unknown or must be withheld in a legal action, 
+case, or discussion. The names are also used to refer to acorpse or 
+hospital patient whose identity is unknown. This practice is widely used in the United States and 
+Canada, but is rarely used in other English-speaking countries including the United Kingdom 
+itself, from where the use of "John Doe" in a legal context originates. The names Joe Bloggs or 
+John Smith are used in the UK instead, as well as in Australia and New Zealand.<:f220,2Calibri,0,0,0>
+
+<:S+-1>
+
+@Style #1@John Doe is sometimes used to refer to a typical male in other contexts as well, in a similar manner to 
+John Q. Public, known in Great Britain as Joe Public, John Smith or Joe Bloggs. For example, the first 
+name listed on a form is often John Doe, along with a fictional address or other fictional information to 
+provide an example of how to fill in the form. The name is also used frequently in popular culture, for 
+example in the Frank Capra film <+">Meet John Doe<-">. John Doe was also the name of a 2002 American 
+television series.
+
+@Style #1@
+
+@Style #1@File created by <:f220,2Calibri,0,0,128>http://www.online-convert.com<:f220,2Calibri,0,0,255><:f220,2Arial,0,0,255>
+
+@Style #0@More example files:<:f220,2Arial,0,0,255> <:f220,2Arial,0,0,128>http://www.online-convert.com/file-<:f220,2Arial,0,0,0><:f220,2Calibri,0,0,0>type<:f220,2Calibri,0,0,255>
+
+@Style #1@Text of </S>Example content</T>:<:f220,2Calibri,0,0,255> <:f220,2Calibri,0,0,128>Wikipedia<:f220,2Calibri,0,0,0> (https://en.wikipedia.org/wiki/John_Doe)<:f220,2Calibri,0,0,255>
+
+@Style #1@License:<:f220,2Calibri,0,0,255> <:f220,2Calibri,0,0,128>Attribution-ShareAlike 3.0 Unported<:f220,2Calibri,0,0,0> 
+(https://creativecommons.org/licenses/by-sa/3.0/de/)<:f220,2Calibri,0,0,255>
+
+@Style #2@
+
+@Style #2@
+
+@Style #2@
+
+@Style #1@Feel free to use and share the file according to the license above.<:f220,2Calibri,0,0,255> 
+
+
+>

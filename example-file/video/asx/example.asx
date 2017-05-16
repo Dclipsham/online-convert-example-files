@@ -1,0 +1,21 @@
+<ASX version = "3.0">
+
+<TITLE>ASX test file</TITLE>
+
+<ENTRY>
+
+<TITLE>Purpose: Provide example of this file type
+File type: ASX
+Version: 1.0
+Remark: </TITLE>
+
+<AUTHOR>File created by http://www.online-convert.com
+More example files: http://www.online-convert.com/file-type</AUTHOR> 
+
+<COPYRIGHT>License: Attribution-ShareAlike 3.0 Unported
+https://creativecommons.org/licenses/by-sa/3.0/
+Feel free to use and share the file according to the license above.</COPYRIGHT>
+
+<REF HREF = "http://yourIP:yourPort"/> 
+</ENTRY> 
+</ASX>

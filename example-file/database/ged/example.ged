@@ -1,0 +1,42 @@
+﻿0 HEAD
+1 SOUR MyFamilyTree
+2 VERS 5.0.4.0
+2 NAME My Family Tree
+2 CORP Chronoplex Software
+1 DATE 17 AUG 2016
+2 TIME 14:48
+1 SUBM @U@
+1 SUBN @N@
+1 FILE example.ged
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+0 @I0@ INDI
+1 _UID 04DCFD65B09042ADACF731A1074D7D32E9CF
+1 NAME Online /Convert/
+2 TYPE Birth
+2 GIVN Online
+2 SURN Convert
+1 SEX F
+1 BIRT Y
+2 TYPE BIRT
+2 DATE (12.12.2001)
+1 OBJE @M1@
+0 @M0@ OBJE
+1 FILE \-\Multimedia\forGED.pdf
+2 FORM pdf
+2 TITL forGED.pdf
+0 @M1@ OBJE
+1 FILE \-\Multimedia\example.pdf
+2 FORM pdf
+2 TITL example.pdf
+0 @N@ SUBN
+1 SUBM @U@
+1 FAMF example.ged
+1 ANCE 0
+1 DESC 0
+0 @U@ SUBM
+1 NAME Unknown
+0 TRLR

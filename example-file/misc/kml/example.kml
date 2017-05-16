@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>example.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<color>ff00aa00</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aa00</color>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<color>ff00aa00</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aa00</color>
+		</LabelStyle>
+	</Style>
+	<Placemark>
+		<name>KML test file</name>
+		<description>Purpose: Provide example of this file type
+Document file type: 
+PDF
+Version: 1.0
+
+File created by 
+http://www.online
+-
+convert.com
+More example files: 
+http://www.online
+-
+convert.com/file
+-
+type
+T
+ext of “Example content”: 
+Wikipedia
+License: 
+Attribution
+-
+ShareAlike 3.0 Unported
+Feel free to use and share the file according to the license above.
+
+</description>
+		<LookAt>
+			<longitude>8.955628893591037</longitude>
+			<latitude>47.75051421372044</latitude>
+			<altitude>0</altitude>
+			<heading>56.18057997333791</heading>
+			<tilt>22.92894817942821</tilt>
+			<range>684.5445896282406</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>8.95476601120893,47.75171123356738,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

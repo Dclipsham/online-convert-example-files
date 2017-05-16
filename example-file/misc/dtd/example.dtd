@@ -1,0 +1,20 @@
+<!-- ODT test file -->
+
+>!-- Purpose: Provide example of this file type
+Document file type: ODT
+Version: 1.0
+Remark:  -->
+
+
+<!ELEMENT note (to,from,subject,body)>
+<!ELEMENT to (#PCDATA)>
+<!ELEMENT from (#PCDATA)>
+<!ELEMENT subject (#PCDATA)>
+<!ELEMENT body (#PCDATA)>
+
+<!-- File created by http://www.online-convert.com
+More example files: http://www.online-convert.com/file-type
+License: Attribution-ShareAlike 3.0 Unported
+http://creativecommons.org/licenses/by-sa/3.0/ -->
+
+<!-- Feel free to use and share the file according to the license above. -->

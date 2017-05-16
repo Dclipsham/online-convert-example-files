@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>example</title>
+    <link>online-convert.com</link>
+    <description>RSS test file
+Purpose: Provide example of this file type
+File type: RSS
+Version: 1.0
+
+File created by http://www.online-convert.com
+More example files: http://www.online-convert.com/file-type
+License: Attribution-ShareAlike 3.0 Unported
+http://creativecommons.org/licenses/by-sa/3.0/
+
+Feel free to use and share the file according to the license above.</description>
+    <language>en-us</language>
+    <item>
+      <title>example</title>
+      <pubDate>Thu, 18 Aug 2016 09:47:28 +0200</pubDate>
+      <link>http://www.online-convert.com/</link>
+      <author>onine-convert.com</author>
+      <category>Online Conversion</category>
+      <description><![CDATA[]]></description>
+    </item>
+  </channel>
+</rss>
